@@ -8,5 +8,6 @@ echo List of processes on the server:
 ps aux
 
 echo "This is a sample file" > testfile.txt
+echo `pwd`
 
 echo Bye!
